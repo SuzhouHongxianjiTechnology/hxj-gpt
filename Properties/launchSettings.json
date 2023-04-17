@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleForVideo": {
+      "commandName": "Project",
+      "commandLineArgs": "chatgpt tg -s 3"
+    }
+  }
+}
